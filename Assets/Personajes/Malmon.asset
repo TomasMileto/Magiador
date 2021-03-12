@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a1acf2ba50f484aab1ec1067727f72, type: 3}
+  m_Name: Malmon
+  m_EditorClassIdentifier: 
+  nombre: Malmon
+  descripcion: Diablo malo
+  Imagen: {fileID: 0}
+  personaje: {fileID: 1508748643913082, guid: 5ce3bfd454b2c7e43a735e5a810875be, type: 2}
+  hada: {fileID: 11400000, guid: 639080ef0dce6764f83b7ecf62f63709, type: 2}
+  vida: 300
+  fireMana: 100
+  fireExpend: 0.8
+  fireDPS: 1.3
+  explosion: {fileID: 198296629567615468, guid: 81bde796efa3e6a4e8c404ee84e147b4,
+    type: 2}
+  fuerzaExplosion: 1500
+  radioExplosion: 8
+  airMana: 0
+  fuerzaDash: 5000
+  airExpend: 1
+  runningAirRegen: 0.3
+  waterMana: 50
+  waterExpend: 1
+  curacion: 40
+  healChanneling: 1.5
+  earthMana: 70
+  earthExpend: 1
+  earthWall: {fileID: 1850750156579666, guid: 146d3944117b7074ab58c0e497d0b3d8, type: 2}
+  fuerzaMovimiento: 100
+  velocidadRotacion: 3.8
+  velocidadMaxima: 40
+  masa: 1.5
+  drag: 5

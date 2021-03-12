@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a1acf2ba50f484aab1ec1067727f72, type: 3}
+  m_Name: Bric
+  m_EditorClassIdentifier: 
+  nombre: Bric
+  descripcion: Generic Bad Guy
+  Imagen: {fileID: 21300000, guid: 8dd53c203b1918244b2edfa56f71182b, type: 3}
+  personaje: {fileID: 100094, guid: 93b5bcf988be18f468e1a59995afbe48, type: 2}
+  resurrection: {fileID: 198639745526929918, guid: 8685c7a511ce78a4ab0b78e437e8fd4d,
+    type: 2}
+  animator: {fileID: 0}
+  hada: {fileID: 11400000, guid: 38178aa56a1af9a439b075a49bf2efd9, type: 2}
+  vida: 300
+  fireMana: 50
+  fireExpend: 1
+  fireDPS: 1.2
+  explosion: {fileID: 0}
+  fuerzaExplosion: 100
+  radioExplosion: 5
+  fireRegen: 1
+  airMana: 0
+  multiplicadorSpint: 1.6
+  airExpend: 1
+  runningAirRegen: 0.25
+  waterMana: 100
+  waterExpend: 1
+  curacion: 80
+  healChanneling: 2.5
+  waterRegen: 1
+  earthMana: 40
+  earthExpend: 1
+  earthWall: {fileID: 0}
+  earthRegen: 1
+  fuerzaMovimiento: 75
+  velocidadRotacion: 3
+  velocidadMaxima: 35
+  masa: 1.5
+  drag: 5

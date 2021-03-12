@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: da4e47528941e314985f70c3e633ef3a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barbarian Wyder
+    100002: //RootNode
+    100004: Rig
+    100006: RigHead
+    100008: RigHeadBone001
+    100010: RigLCalf
+    100012: RigLCollarbone
+    100014: RigLDigit21
+    100016: RigLDigit22
+    100018: RigLDigit23
+    100020: RigLFinger11
+    100022: RigLFinger12
+    100024: RigLFinger13
+    100026: RigLFinger14
+    100028: RigLFoot
+    100030: RigLForearm
+    100032: RigLPalm
+    100034: RigLPlatform
+    100036: RigLThigh
+    100038: RigLToe11
+    100040: RigLToe12
+    100042: RigLUpperarm
+    100044: RigNeck
+    100046: RigPelvis
+    100048: RigRCalf
+    100050: RigRCollarbone
+    100052: RigRDigit21
+    100054: RigRDigit22
+    100056: RigRDigit23
+    100058: RigRFinger11
+    100060: RigRFinger12
+    100062: RigRFinger13
+    100064: RigRFinger14
+    100066: RigRFoot
+    100068: RigRForearm
+    100070: RigRibcage
+    100072: RigRPalm
+    100074: RigRPlatform
+    100076: RigRThigh
+    100078: RigRToe11
+    100080: RigRToe12
+    100082: RigRUpperarm
+    100084: RigSpine1
+    100086: RigSpine2
+    100088: RigSpine3
+    400000: Barbarian Wyder
+    400002: //RootNode
+    400004: Rig
+    400006: RigHead
+    400008: RigHeadBone001
+    400010: RigLCalf
+    400012: RigLCollarbone
+    400014: RigLDigit21
+    400016: RigLDigit22
+    400018: RigLDigit23
+    400020: RigLFinger11
+    400022: RigLFinger12
+    400024: RigLFinger13
+    400026: RigLFinger14
+    400028: RigLFoot
+    400030: RigLForearm
+    400032: RigLPalm
+    400034: RigLPlatform
+    400036: RigLThigh
+    400038: RigLToe11
+    400040: RigLToe12
+    400042: RigLUpperarm
+    400044: RigNeck
+    400046: RigPelvis
+    400048: RigRCalf
+    400050: RigRCollarbone
+    400052: RigRDigit21
+    400054: RigRDigit22
+    400056: RigRDigit23
+    400058: RigRFinger11
+    400060: RigRFinger12
+    400062: RigRFinger13
+    400064: RigRFinger14
+    400066: RigRFoot
+    400068: RigRForearm
+    400070: RigRibcage
+    400072: RigRPalm
+    400074: RigRPlatform
+    400076: RigRThigh
+    400078: RigRToe11
+    400080: RigRToe12
+    400082: RigRUpperarm
+    400084: RigSpine1
+    400086: RigSpine2
+    400088: RigSpine3
+    2100000: 03 - Default
+    4300000: Barbarian Wyder
+    7400000: Take 001
+    7400002: mixamo.com
+    9500000: //RootNode
+    13700000: Barbarian Wyder
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

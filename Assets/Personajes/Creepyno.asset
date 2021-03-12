@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a1acf2ba50f484aab1ec1067727f72, type: 3}
+  m_Name: Creepyno
+  m_EditorClassIdentifier: 
+  nombre: Creepy
+  descripcion: Creepy...
+  Imagen: {fileID: 0}
+  personaje: {fileID: 1605460319244818, guid: a37b90b005fcea5479ad72f35e96437b, type: 2}
+  hada: {fileID: 11400000, guid: 31a8c0394c568b349ba05db709331301, type: 2}
+  vida: 300
+  fireMana: 80
+  fireExpend: 1
+  fireDPS: 1
+  explosion: {fileID: 0}
+  fuerzaExplosion: 100
+  radioExplosion: 4
+  airMana: 30
+  fuerzaDash: 5000
+  airExpend: 1.2
+  runningAirRegen: 0.3
+  waterMana: 80
+  waterExpend: 0.75
+  curacion: 40
+  healChanneling: 1.5
+  earthMana: 80
+  earthExpend: 1
+  earthWall: {fileID: 0}
+  fuerzaMovimiento: 100
+  velocidadRotacion: 3
+  velocidadMaxima: 40
+  masa: 1.5
+  drag: 5

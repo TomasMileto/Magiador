@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: fac9c1a32f96862468d764b6617932f6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Footsteps
+    100004: Bip01 Head
+    100006: Bip01 HeadNub
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Finger0
+    100014: Bip01 L Finger01
+    100016: Bip01 L Finger0Nub
+    100018: Bip01 L Finger1
+    100020: Bip01 L Finger11
+    100022: Bip01 L Finger1Nub
+    100024: Bip01 L Finger2
+    100026: Bip01 L Finger21
+    100028: Bip01 L Finger2Nub
+    100030: Bip01 L Foot
+    100032: Bip01 L Forearm
+    100034: Bip01 L Hand
+    100036: Bip01 L Thigh
+    100038: Bip01 L Toe0
+    100040: Bip01 L Toe0Nub
+    100042: Bip01 L UpperArm
+    100044: Bip01 Neck
+    100046: Bip01 Pelvis
+    100048: Bip01 R Calf
+    100050: Bip01 R Clavicle
+    100052: Bip01 R Finger0
+    100054: Bip01 R Finger01
+    100056: Bip01 R Finger0Nub
+    100058: Bip01 R Finger1
+    100060: Bip01 R Finger11
+    100062: Bip01 R Finger1Nub
+    100064: Bip01 R Finger2
+    100066: Bip01 R Finger21
+    100068: Bip01 R Finger2Nub
+    100070: Bip01 R Foot
+    100072: Bip01 R Forearm
+    100074: Bip01 R Hand
+    100076: Bip01 R Thigh
+    100078: Bip01 R Toe0
+    100080: Bip01 R Toe0Nub
+    100082: Bip01 R UpperArm
+    100084: Bip01 Spine
+    100086: Bip01 Spine1
+    100088: Bone_cloth_L1
+    100090: Bone_cloth_L2
+    100092: Bone_cloth_L3
+    100094: Bone_cloth_L4
+    100096: Bone_cloth_L5
+    100098: Bone_cloth_R1
+    100100: Bone_cloth_R2
+    100102: Bone_cloth_R3
+    100104: Bone_cloth_R4
+    100106: Bone_cloth_R5
+    100108: Bone_neck1
+    100110: Bone_neck2
+    100112: Bone_skirt_bottom
+    100114: Bone_skirt_L1
+    100116: Bone_skirt_L2
+    100118: Bone_skirt_L3
+    100120: Bone_skirt_L4
+    100122: Bone_skirt_R1
+    100124: Bone_skirt_R2
+    100126: Bone_skirt_R3
+    100128: Bone_skirt_R4
+    100130: Dummy01
+    100132: Dummy02
+    100134: Dummy03
+    100136: Dummy04
+    100138: Dummy05
+    100140: Dummy06
+    100142: Dummy07
+    100144: Dummy08
+    100146: Dummy_weapon
+    100148: fallen_guardian
+    100150: //RootNode
+    100152: IK Chain01
+    100154: IK Chain02
+    100156: IK Chain03
+    100158: IK Chain04
+    100160: Point01
+    100162: Point02
+    100164: Point03
+    100166: Point04
+    400000: Bip01
+    400002: Bip01 Footsteps
+    400004: Bip01 Head
+    400006: Bip01 HeadNub
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Finger0
+    400014: Bip01 L Finger01
+    400016: Bip01 L Finger0Nub
+    400018: Bip01 L Finger1
+    400020: Bip01 L Finger11
+    400022: Bip01 L Finger1Nub
+    400024: Bip01 L Finger2
+    400026: Bip01 L Finger21
+    400028: Bip01 L Finger2Nub
+    400030: Bip01 L Foot
+    400032: Bip01 L Forearm
+    400034: Bip01 L Hand
+    400036: Bip01 L Thigh
+    400038: Bip01 L Toe0
+    400040: Bip01 L Toe0Nub
+    400042: Bip01 L UpperArm
+    400044: Bip01 Neck
+    400046: Bip01 Pelvis
+    400048: Bip01 R Calf
+    400050: Bip01 R Clavicle
+    400052: Bip01 R Finger0
+    400054: Bip01 R Finger01
+    400056: Bip01 R Finger0Nub
+    400058: Bip01 R Finger1
+    400060: Bip01 R Finger11
+    400062: Bip01 R Finger1Nub
+    400064: Bip01 R Finger2
+    400066: Bip01 R Finger21
+    400068: Bip01 R Finger2Nub
+    400070: Bip01 R Foot
+    400072: Bip01 R Forearm
+    400074: Bip01 R Hand
+    400076: Bip01 R Thigh
+    400078: Bip01 R Toe0
+    400080: Bip01 R Toe0Nub
+    400082: Bip01 R UpperArm
+    400084: Bip01 Spine
+    400086: Bip01 Spine1
+    400088: Bone_cloth_L1
+    400090: Bone_cloth_L2
+    400092: Bone_cloth_L3
+    400094: Bone_cloth_L4
+    400096: Bone_cloth_L5
+    400098: Bone_cloth_R1
+    400100: Bone_cloth_R2
+    400102: Bone_cloth_R3
+    400104: Bone_cloth_R4
+    400106: Bone_cloth_R5
+    400108: Bone_neck1
+    400110: Bone_neck2
+    400112: Bone_skirt_bottom
+    400114: Bone_skirt_L1
+    400116: Bone_skirt_L2
+    400118: Bone_skirt_L3
+    400120: Bone_skirt_L4
+    400122: Bone_skirt_R1
+    400124: Bone_skirt_R2
+    400126: Bone_skirt_R3
+    400128: Bone_skirt_R4
+    400130: Dummy01
+    400132: Dummy02
+    400134: Dummy03
+    400136: Dummy04
+    400138: Dummy05
+    400140: Dummy06
+    400142: Dummy07
+    400144: Dummy08
+    400146: Dummy_weapon
+    400148: fallen_guardian
+    400150: //RootNode
+    400152: IK Chain01
+    400154: IK Chain02
+    400156: IK Chain03
+    400158: IK Chain04
+    400160: Point01
+    400162: Point02
+    400164: Point03
+    400166: Point04
+    2300000: fallen_guardian
+    3300000: fallen_guardian
+    4300000: fallen_guardian
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: fallen_guardian
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fallen_guardian
+    second: {fileID: 2100000, guid: 5c2da8ed847474f48add6e599fb645d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Avatar creation failed:\n\tParent for 'Bip01 L Thigh' differs
+      from one found in HumanDescription. 'Bip01 Spine' was found instead of 'Bip01
+      Pelvis'.\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: fallen_guardian
+    rootMotionBoneRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

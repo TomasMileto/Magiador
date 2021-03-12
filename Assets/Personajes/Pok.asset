@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a1acf2ba50f484aab1ec1067727f72, type: 3}
+  m_Name: Pok
+  m_EditorClassIdentifier: 
+  nombre: Pok
+  descripcion: Rock
+  Imagen: {fileID: 0}
+  personaje: {fileID: 1354351308895654, guid: b45c90326f943334bba136db9f0aba15, type: 2}
+  hada: {fileID: 11400000, guid: e144b79ad8225644ca48a6a89cc839e6, type: 2}
+  vida: 300
+  fireMana: 10
+  fireExpend: 1
+  fireDPS: 0.7
+  explosion: {fileID: 0}
+  fuerzaExplosion: 200
+  radioExplosion: 5
+  airMana: 30
+  fuerzaDash: 5000
+  airExpend: 1
+  runningAirRegen: 0.3
+  waterMana: 50
+  waterExpend: 1.25
+  curacion: 40
+  healChanneling: 1.5
+  earthMana: 100
+  earthExpend: 0.6
+  earthWall: {fileID: 0}
+  fuerzaMovimiento: 100
+  velocidadRotacion: 2.5
+  velocidadMaxima: 60
+  masa: 2.5
+  drag: 5
