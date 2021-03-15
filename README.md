@@ -1,5 +1,5 @@
 # Magiador
-Isometric Magic Brawl.
+Isometric Magic Brawl made with Unity and C#.
 
 
 This one was the final project from the game dev course I took 3 years ago in the UTN (Nacional Technologic University). 
